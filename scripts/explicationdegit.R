@@ -19,4 +19,8 @@
 #mettre sur commit
 #ensuite, selectionner les documents, et ajouter des commentaires
 
+#git revert
+#peut contourner des changements qu'on à commit qu'on voudrait
+#rechanger
+
 
