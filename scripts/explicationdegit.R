@@ -26,3 +26,6 @@
 #git revert HEAD
 # et la CTRL + X 
 
+#####
+# git restore nomdufichier.R
+#pour remettre un fichier qui s'est fait effacer
