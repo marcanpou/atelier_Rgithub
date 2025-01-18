@@ -23,4 +23,6 @@
 #peut contourner des changements qu'on à commit qu'on voudrait
 #rechanger
 
-#des paroles a reverser
+#git revert HEAD
+# et la CTRL + X 
+
